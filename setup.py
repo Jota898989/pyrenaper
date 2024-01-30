@@ -7,7 +7,7 @@ setuptools.setup(
     name="pyrenaper",
     version="0.0.21",
     author="Damian Sastre",
-    author_email="author@example.com",
+    author_email="jota@example.com",
     description="Python implementation of Argentina's RENAPER API service.",
     long_description=long_description,
     long_description_content_type="text/markdown",
